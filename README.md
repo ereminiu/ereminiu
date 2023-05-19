@@ -1,6 +1,9 @@
-### Привет 👋
-Меня зовут Иван. Мне 18 лет. 
-Я начинающий backend разработчик на языке go. 
+### Hi there, I'm Ivan 👋
+Computer science student, aspiring backend developer
+
+- 🌱 I’m currently learning go, backend 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **ereminiu/ereminiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
