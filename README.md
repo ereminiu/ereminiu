@@ -6,6 +6,7 @@ Computer science student, aspiring backend developer
 My leetcode: 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mysch)]([https://leetcode.com/ereminiu])
+[mysch](https://leetcode.com/mysch/)
 
 <!--
 **ereminiu/ereminiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
