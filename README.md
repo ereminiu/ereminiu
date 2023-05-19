@@ -1,4 +1,6 @@
-### Hi there 👋
+### Привет 👋
+Меня зовут Иван. Мне 18 лет. 
+Я начинающий backend разработчик на языке go. 
 
 <!--
 **ereminiu/ereminiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
