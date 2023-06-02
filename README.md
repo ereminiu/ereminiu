@@ -4,7 +4,7 @@ Computer science student, aspiring backend developer
 - 🌱 I’m currently learning go, backend 
 - ⚡ I believe practice makes perfect!
 - 👾 Skills: Go/Python/C++
-- 📫 How to reach me: [vk](https://vk.com/id742535959) [telegram](https://t.me/SergeyGryadkin)
+- 📫 How to reach me: [vk](https://vk.com/id742535959) [telegram](https://t.me/ereminiu) 
 
 
 [My leetcode](https://leetcode.com/mysch/): 
